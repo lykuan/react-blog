@@ -1,0 +1,12 @@
+{
+  user: '1984167403@qq.com',
+  message: 'user exists',
+  level: 'error',
+  timestamp: '2024-02-00 17:24:05'
+}
+{
+  user: '1984167403@qq.com',
+  message: 'sign in scucessfully',
+  level: 'info',
+  timestamp: '2024-02-00 17:26:02'
+}

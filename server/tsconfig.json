@@ -1,0 +1,19 @@
+{
+  "ts-node": {
+    "transpileOnly": true,
+    "files": true,
+    "compilerOptions": {
+    }
+  },
+  "compilerOptions": {
+    "target": "es6",
+    "module": "NodeNext",
+    "rootDir": "./",
+    "outDir": "./build",
+    "sourceMap": true,
+    "noUnusedLocals": true,
+    "strict": true,
+    "useUnknownInCatchVariables": true
+    
+  }
+}
